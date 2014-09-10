@@ -1,0 +1,25 @@
+{
+  "name": "sw-spinner",
+  "version": "0.0.1",
+  "description": "Loading spinner directive for AngularJS",
+  "keywords": [
+    "spinner",
+    "loading",
+    "angular"
+  ],
+  "authors": [
+    {
+      "name": "Jakub Burkiewicz",
+      "email": "jakub@burkiewicz.eu"
+    }
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jakubburkiewicz/sw-spinner"
+  },
+  "main": "sw-spinner.js",
+  "dependencies": {
+    "angular": ">=1"
+  }
+}
